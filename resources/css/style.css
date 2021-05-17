@@ -26,3 +26,14 @@ body {
   color: teal;
 }
 
+.link-gim {
+  font-size: 16px;
+  color: teal;
+}
+
+.footer--copyright {
+  font-size: 21px;
+  color: teal;
+  text-align: right;
+}
+
