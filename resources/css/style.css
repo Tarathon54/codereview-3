@@ -1,0 +1,27 @@
+body {
+  background-color: #0e490e;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+.header--main {
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.header--secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: #ffffff;
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: teal;
+}
+
+.link-quo {
+  font-size: 16px;
+  color: teal;
+}
