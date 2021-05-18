@@ -21,13 +21,18 @@ body {
   color: teal;
 }
 
-.link-quo {
+.link-mor {
   font-size: 16px;
   color: teal;
 }
 
 .link-gim {
   font-size: 16px;
+  color: teal;
+}
+
+.link-quo {
+  font-size: 14px;
   color: teal;
 }
 
